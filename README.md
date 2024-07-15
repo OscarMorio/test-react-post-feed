@@ -19,6 +19,3 @@ bun dev
 ```
 Abre [http://localhost:3000](http://localhost:3000) para ver la página.
 
-## TODOS:
-
-[] Add posts call
