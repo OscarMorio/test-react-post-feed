@@ -4,6 +4,10 @@ Prueba técnica para puesto de frontend developer en Idrica
 
 Para levantar el entorno de desarrollo local
 
+Primero instalamos todas las dependencias
+
+```npm install```
+Luego levantamos el servidor local
 ```bash
 npm run dev
 # or
